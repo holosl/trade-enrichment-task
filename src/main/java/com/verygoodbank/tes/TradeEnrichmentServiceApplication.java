@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TradeEnrichmentServiceApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(TradeEnrichmentServiceApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(TradeEnrichmentServiceApplication.class, args);
+    }
 
 }

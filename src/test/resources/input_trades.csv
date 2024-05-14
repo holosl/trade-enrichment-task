@@ -1,0 +1,9 @@
+date,product_id,currency,price
+20160101,1,EUR,10.0
+20160231,2,EUR,20.1
+20160101,3,EUR,30.34
+20160101,xx,EUR,35.34
+
+
+20160101,11,EUR,35.34
+bad,line
